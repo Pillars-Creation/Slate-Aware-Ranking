@@ -1,0 +1,5 @@
+__pycache__
+chkpt/*
+datahub/movielens1M/*.pkl
+datahub/movielens1M/ratings.dat
+.ipynb_checkpoints
